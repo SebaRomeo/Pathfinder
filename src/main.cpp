@@ -10,6 +10,7 @@ int main()
 
 	pf::render::Renderer r;
 	pf::Grid g(20, 20);
+
 	r.DrawGrid(g);
 
 	std::cin.get();

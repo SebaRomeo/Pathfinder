@@ -2,7 +2,8 @@
 #include <vector>
 #include "Node.h"
 
-namespace pf {
+namespace pf
+{
 	class Grid
 	{
 	public:

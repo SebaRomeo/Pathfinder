@@ -2,10 +2,11 @@
 
 #include "Grid.h"
 
-namespace pf::render {
+namespace pf::render
+{
 	class Renderer
 	{
 	public:
-		void DrawGrid(const Grid& grid);
+		void DrawGrid(const Grid &grid);
 	};
 }
